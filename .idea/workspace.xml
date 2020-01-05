@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c07fe3d4-848a-4f64-bab8-30019db86f51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tripleogapi/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/tripleogapi/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578061962801</updated>
       <workItem from="1578062002914" duration="7657000" />
-      <workItem from="1578252494736" duration="5125000" />
+      <workItem from="1578252494736" duration="6702000" />
     </task>
     <servers />
   </component>
