@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c07fe3d4-848a-4f64-bab8-30019db86f51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tripleogapi/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tripleogapi/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cta" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -87,7 +88,7 @@
       <workItem from="1578062002914" duration="7657000" />
       <workItem from="1578252494736" duration="9014000" />
       <workItem from="1578601572237" duration="592000" />
-      <workItem from="1578904022449" duration="1789000" />
+      <workItem from="1578904022449" duration="3908000" />
     </task>
     <servers />
   </component>
@@ -99,6 +100,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="448" y="188" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1578257497562" />
+    <state x="463" y="140" key="FileChooserDialogImpl" timestamp="1578924258194">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="140" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1578924258194" />
     <state x="184" y="27" key="SettingsEditor" timestamp="1578254007797">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
